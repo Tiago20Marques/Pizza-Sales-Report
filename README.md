@@ -29,7 +29,7 @@ This project is a complete end-to-end data analytics case study using a fictiona
 ---
 
 ## 📂 Project Structure
-- `pizza_sales.csv` – Dataset
+- `pizza_sales_500.xlsx` – Shortened Dataset
 - `Pizza_Sales Project.sql` – SQL scripts for cleaning and analysis
 - `Pizza_Sales Project.PowerBI.pbix` – Power BI dashboard
 - Screenshots folder for previews
